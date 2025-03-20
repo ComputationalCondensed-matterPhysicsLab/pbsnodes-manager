@@ -5,6 +5,7 @@ This Repository aims to provide convenience when managing or monitoring remote n
 |file|feature|requirements
 |:-|:-|:-:|
 node_names.sh|print node names|
+state.sh | print node states|
 temp.sh | print highest temperature of each nodes.|sensors
 
 # Requirements
